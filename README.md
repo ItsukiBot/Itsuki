@@ -2,7 +2,7 @@
 	<img src="./pics/20210816_233129.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Itsuki Bot</h1>
-<h1 align="center">Official SC Used By My Bot</h1>
+<h1 align="center">Official SC Used By Me</h1>
 <a href="https://github.com/ItsukiBot"><img title="Createdby" src="https://img.shields.io/badge/Created-ItsukiBot-black?style=for-the-badge&logo=github"></a>
 </p>
 
@@ -22,7 +22,7 @@
 >
 > npm install
 `
-> Then click run
+Then click run
 
 ### hm
 <p align="center">
@@ -66,6 +66,6 @@ Install these packages
 
 # THANKS TO
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Adiixyz`](https://github.com/Adiixyz(
+* [`Adiixyz`](https://github.com/Adiixyz)
 * [`ariffb`](https://github.com/ariffb25)
 * [`Nurutomo`](https://github.com/Nurutomo)
